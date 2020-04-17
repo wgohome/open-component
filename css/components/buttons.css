@@ -1,0 +1,19 @@
+.btn-bar {
+  display: flex;
+  align-items: center;
+  margin: 8px 0 4px 0;
+}
+
+.btn {
+  font-size: 24px;
+  font-weight: lighter;
+  padding: 0 8px;
+}
+
+.btn-gap {
+  flex-grow: 1;
+}
+
+.btn-small {
+  font-size: 20px;
+}

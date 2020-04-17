@@ -1,0 +1,10 @@
+.post-header {
+  display: flex;
+  align-items: center;
+  /*border: 1px solid grey;*/
+  margin: 12px;
+}
+
+.post-header h3, .post-header > .avatar-highlight {
+  margin: 0 10px;
+}

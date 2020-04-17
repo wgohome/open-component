@@ -1,0 +1,15 @@
+.avatar {
+  height: 60px;
+  width: 60px;
+  object-fit: cover;
+  padding: 2px;
+  margin: 3px;
+  background-color: white;
+  border-radius: 50%;
+}
+
+.avatar-highlight {
+  display: inline-block;
+  background: linear-gradient(180deg, rgba(200,15,192,1) 28%, rgba(255,102,0,1) 100%);
+  border-radius: 50%;
+}
